@@ -50,6 +50,6 @@ In 2013, the income from ad revenue was no longer meeting the expenses including
 
 In 2015 with the continuing decline of ad-revenue, lack of time to maintain the services or grow the service offering, and an increase in awesome competing services like Github and Bitbucket, the sad but pragmatic decision was made to terminate all the Codehaus services.
 
-Sonarqube sponsored the Codehaus for a final 3 months to May 31st, and late on May 31st (11:53pm May 31st 2015) the termination ticket was raised with Contegix to shut everything down.
+SonarSource sponsored the Codehaus for a final 3 months to May 31st, and late on May 31st (11:53pm May 31st 2015) the termination ticket was raised with Contegix to shut everything down.
 
 A final redirection service is in place on an Amazon t2.micro service - the cost to run the redirector is around $1/day - it will be run indefinitely.
