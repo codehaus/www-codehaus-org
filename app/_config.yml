@@ -1,0 +1,13 @@
+# Site settings
+title: Codehaus
+email: support@codehaus.org
+description: > # this means to ignore newlines until "baseurl:"
+  Codehaus - once an incredible open-source hosting service - is
+  now discontinued
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.codehaus.org" # the base hostname & protocol for your site
+twitter_username: codehaus
+github_username:  codehaus
+
+# Build settings
+markdown: kramdown
