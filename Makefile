@@ -6,9 +6,11 @@ target=$(target_user)@$(target_host):$(target_dir)
 all: build
 
 build:
-	cd app ; bundle exec jekyll build app
+	cd app && bundle exec jekyll build app
 
 deploy: build
 	echo "Website push..."
-	rsync --delete --stats -r -v ./app/_site/ $(target)
+	rsync --delete -r ./app/_site/ $(target)
         
+serve:
+	cd app && bundle exec jekyll serve

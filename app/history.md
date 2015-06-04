@@ -46,10 +46,34 @@ Xircles was spun off to manage Muleforge and Cloudbees - but there is nothing le
 
 ## End of Days
 
-In 2013, the income from ad revenue was no longer meeting the expenses including an enormous amount of bandwidth being consumed by Maven repositories.  
+In 2013, the income from ad revenue no longer met the hosting expenses including an enormous amount of bandwidth being consumed by Maven repositories.  
 
 In 2015 with the continuing decline of ad-revenue, lack of time to maintain the services or grow the service offering, and an increase in awesome competing services like Github and Bitbucket, the sad but pragmatic decision was made to terminate all the Codehaus services.
 
-SonarSource sponsored the Codehaus for a final 3 months to May 31st, and late on May 31st (11:53pm May 31st 2015) the termination ticket was raised with Contegix to shut everything down.
+SonarSource sponsored the Codehaus for a final 3 months to May 31st 2015, and late on May 31st (11:53pm - May 31st 2015) the termination ticket was raised with Contegix to shut everything down.
 
-A final redirection service is in place on an Amazon t2.micro service - the cost to run the redirector is around $1/day - it will be run indefinitely.
+A <a href='/mechanics/redirects/'>redirection service</a> is now in place to provide some limited continuity - it will be run as long as the ads on it cover the costs.
+
+
+## Thanks
+
+Codehaus would not have been the success it was (in its prime) without the support of Contegix and the projects that continued using and promoting its usage.
+
+Contegix provided 24x7 hosting and a very generous hosting package that kept us alive.
+
+The decision to shutdown Codehaus, the first announcement, and the final tickets were all difficult decisions to make and execute.
+
+But now it's over, and we can move on with making better software and collaborating in new ways!
+
+## Hausmates
+
+(feel free to add your name and MySpace account details)
+
+* Bob McWerken
+* Jason van Zyl
+* James McStrachan
+* Ben Walding
+* Kurt Schrader
+* Pete Kazmier
+* Brian Topping
+* ...
