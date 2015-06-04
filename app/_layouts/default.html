@@ -11,11 +11,19 @@
     <div class="page-content">
 
       <div class="wrapper">
-        {% include ad.html %}
+        {% include ad-header.html %}
         <br/>
         {{ content }}
+
+        {% if page.ad_footer != false %}
+          {% include ad-footer.html %}
+        {% endif %}
+
       </div>
     </div>
+
+
+
 
     {% include footer.html %}
 

@@ -2,6 +2,7 @@
 layout: page
 title: Support
 header: true
+ad_footer: false
 permalink: /support/
 ---
 

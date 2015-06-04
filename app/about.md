@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+ad_footer: false
 permalink: /about/
 ---
 
