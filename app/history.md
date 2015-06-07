@@ -20,7 +20,7 @@ The Codehaus "brand" was created to allow for a neutral environment for non-Werk
 
 Thus "The Codehaus" helped to correct that misconception. Kurt Schrader publically announced the existance of the Codehaus a wee bit before Bob was ready for it. Oh well.
 
-The <a href='/history/manifest/'>Manifesto</a> was born to encapsulate the ideals and concepts behind the Codehaus.
+The <a href='/history/manifesto/'>Manifesto</a> was born to encapsulate the ideals and concepts behind the Codehaus.
 
 Jason van Zyl was sharing the cost of the Werken hardware and didn't object to the formation of the Codehaus and is thus honored with the title of "The First Hausmate".
 

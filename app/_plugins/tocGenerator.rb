@@ -36,7 +36,6 @@ module Jekyll
         doc = Nokogiri::HTML(html)
 
         # Find H1 tag and all its H2 siblings until next H1
-        puts "here I am"
         doc.css('h1').each do |h1|
             # TODO This XPATH expression can greatly improved
             ct  = h1.xpath('count(following-sibling::h1)')
