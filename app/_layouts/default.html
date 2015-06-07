@@ -13,7 +13,8 @@
       <div class="wrapper">
         {% include ad-header.html %}
         <br/>
-        {{ content }}
+        
+        {{ content | toc_generate }}
 
         {% if page.ad_footer != false %}
           {% include ad-footer.html %}

@@ -1,9 +1,16 @@
 ---
 layout: page
 title: History
+show_title: false
 header: true
+toc: true
 permalink: /history/
 ---
+
+
+# The Beginning
+-- <cite>Don't cry because it's over, smile because it happened.</cite>
+
 
 The Codehaus was formally registered on 26 February, 2003. Bob 'The Despot' McWhirter had been active in open-source for several years, with projects such as Jaxen and <a href='http://www.drools.org/'>Drools</a>. 
 
@@ -17,7 +24,7 @@ The <a href='/history/manifest/'>Manifesto</a> was born to encapsulate the ideal
 
 Jason van Zyl was sharing the cost of the Werken hardware and didn't object to the formation of the Codehaus and is thus honored with the title of "The First Hausmate".
 
-## Expansion
+# Expansion
 
 So, things trucked along for a while until folks from ThoughtWorks started sending Bob mails. paul, Joe Walnes and Aslak Hellesøy migrated and initiated some projects, With the advent of PicoContainer, the reputation (good? bad?) of the Codehaus took off.
 
@@ -27,35 +34,36 @@ Bob 'The Despot' McWhirter decided to go spend some time in Amsterdam, and the s
 
 Around the New Year of 2004, Bob 'The Despot' McWhirter travelled to Guelph, Ontario to arrange for a new hosting providing at Sentex. The new provider allowed for a much larger machine (beaver.codehaus.org), much more bandwidth, and much fewer dollars. Plus, we're billed in those small Canadian dollars.
 
-## Contegix
+# Contegix
+
 In 2005, the effort of managing and maintaining JIRA got to be too much for poor Bob 'The Despot' McWhirter and he migrated JIRA to http://contegix.com
 
 In May 2006, the drives on "beaver" failed, along with the previous 7 days of backups. A hasty migration was made to Contegix where services had been slowly been provisioned in the background.
 
-## Xircles
+# Xircles
 
 An application; Xircles; was written (by OpenXource) to manage the migration and services on the new box. This application replaced all the rubber-bands and paper-clips with a relatively coordinated system.
 
 Xircles pre-dated management tools like Chef / Puppet / Ansible.
 
-All shell-level access was removed to users which caused much consternation and cries of "I could have done this myself in the old world"; these cries were "largely" ignored.
+All shell-level access was removed from users - causing much consternation and cries of "I could have done this myself much quicker"; these cries were "largely" ignored.
 
-Xircles continued to grow and adjust and now provides a reasonably flexible mechanism for managing the Codehaus infrastructure that covers 4 Contegix servers. Xircles is mostly reliable; with most issues arising from those wacky users and defects arising from the rapid pace with which new functionality moves from development to infliction (on users).
+Xircles continued to grow and adjust and provided a reasonably flexible mechanism for managing the Codehaus infrastructure that covers 4 Contegix servers. Xircles is mostly reliable; with most issues arising from users "issues" and defects arising from the rapid pace at which new functionality moves from development to infliction (on users).
 
 Xircles was spun off to manage Muleforge and Cloudbees - but there is nothing left of it now!
 
-## End of Days
+# End of Days
 
-In 2013, the income from ad revenue no longer met the hosting expenses including an enormous amount of bandwidth being consumed by Maven repositories.  
+Around 2013, the income derived from ad revenue no longer met the hosting expenses - which included an enormous amount of bandwidth being consumed by Maven repositories.  
 
-In 2015 with the continuing decline of ad-revenue, lack of time to maintain the services or grow the service offering, and an increase in awesome competing services like Github and Bitbucket, the sad but pragmatic decision was made to terminate all the Codehaus services.
+In 2015, with the continuing decline of ad-revenue, lack of time to maintain the services or grow the service offering, and an increase in awesome competing services like Github and Bitbucket, the sad but pragmatic decision was made to terminate all the Codehaus services.
 
-SonarSource sponsored the Codehaus for a final 3 months to May 31st 2015, and late on May 31st (11:53pm - May 31st 2015) the termination ticket was raised with Contegix to shut everything down.
+SonarSource sponsored the Codehaus for a final 3 months to May 31st 2015, and late on May 31st (11:53pm May 31st 2015) the termination ticket was raised with Contegix to shut everything down.
 
 A <a href='/mechanics/redirects/'>redirection service</a> is now in place to provide some limited continuity - it will be run as long as the ads on it cover the costs.
 
 
-## Thanks
+# Thanks
 
 Codehaus would not have been the success it was (in its prime) without the support of Contegix and the projects that continued using and promoting its usage.
 
@@ -65,7 +73,7 @@ The decision to shutdown Codehaus, the first announcement, and the final tickets
 
 But now it's over, and we can move on with making better software and collaborating in new ways!
 
-## Hausmates
+# Hausmates
 
 (feel free to add your name and MySpace account details)
 
