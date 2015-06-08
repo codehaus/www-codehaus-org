@@ -16,3 +16,5 @@ See the <a href='/mechanics/website'>website maintenance</a> page for informatio
 # New Locations
 
 1. <a href='https://activemq.apache.org/'>ActiveMQ</a>
+1. <a href='http://sonarqube.org/'>Sonar</a>
+1. <a href='https://github.com/mvel/mvel'>MVEL</a>
