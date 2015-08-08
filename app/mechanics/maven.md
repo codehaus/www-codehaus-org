@@ -25,7 +25,7 @@ For example:
     &lt;id&gt;codehaus-mule-repo&lt;/id&gt;
     &lt;name&gt;codehaus-mule-repo&lt;/name&gt;
     &lt;url&gt;
-      https://repository-master.mulesoft.org/nexus/content/groups/public/
+      https://repository.mulesoft.org/nexus/content/groups/public/
     &lt;/url&gt;
     &lt;layout&gt;default&lt;/layout&gt;
   &lt;/repository&gt;
